@@ -1,0 +1,16 @@
+D:\Documents\Vadim\University\IT\Labs2\LW_2_01_2\LW_2_01_2\bin\Debug\net5.0\LW_2_01_2.exe
+D:\Documents\Vadim\University\IT\Labs2\LW_2_01_2\LW_2_01_2\bin\Debug\net5.0\LW_2_01_2.deps.json
+D:\Documents\Vadim\University\IT\Labs2\LW_2_01_2\LW_2_01_2\bin\Debug\net5.0\LW_2_01_2.runtimeconfig.json
+D:\Documents\Vadim\University\IT\Labs2\LW_2_01_2\LW_2_01_2\bin\Debug\net5.0\LW_2_01_2.runtimeconfig.dev.json
+D:\Documents\Vadim\University\IT\Labs2\LW_2_01_2\LW_2_01_2\bin\Debug\net5.0\LW_2_01_2.dll
+D:\Documents\Vadim\University\IT\Labs2\LW_2_01_2\LW_2_01_2\bin\Debug\net5.0\ref\LW_2_01_2.dll
+D:\Documents\Vadim\University\IT\Labs2\LW_2_01_2\LW_2_01_2\bin\Debug\net5.0\LW_2_01_2.pdb
+D:\Documents\Vadim\University\IT\Labs2\LW_2_01_2\LW_2_01_2\obj\Debug\net5.0\LW_2_01_2.csproj.AssemblyReference.cache
+D:\Documents\Vadim\University\IT\Labs2\LW_2_01_2\LW_2_01_2\obj\Debug\net5.0\LW_2_01_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Vadim\University\IT\Labs2\LW_2_01_2\LW_2_01_2\obj\Debug\net5.0\LW_2_01_2.AssemblyInfoInputs.cache
+D:\Documents\Vadim\University\IT\Labs2\LW_2_01_2\LW_2_01_2\obj\Debug\net5.0\LW_2_01_2.AssemblyInfo.cs
+D:\Documents\Vadim\University\IT\Labs2\LW_2_01_2\LW_2_01_2\obj\Debug\net5.0\LW_2_01_2.csproj.CoreCompileInputs.cache
+D:\Documents\Vadim\University\IT\Labs2\LW_2_01_2\LW_2_01_2\obj\Debug\net5.0\LW_2_01_2.dll
+D:\Documents\Vadim\University\IT\Labs2\LW_2_01_2\LW_2_01_2\obj\Debug\net5.0\ref\LW_2_01_2.dll
+D:\Documents\Vadim\University\IT\Labs2\LW_2_01_2\LW_2_01_2\obj\Debug\net5.0\LW_2_01_2.pdb
+D:\Documents\Vadim\University\IT\Labs2\LW_2_01_2\LW_2_01_2\obj\Debug\net5.0\LW_2_01_2.genruntimeconfig.cache
